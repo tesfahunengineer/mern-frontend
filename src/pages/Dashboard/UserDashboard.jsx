@@ -51,13 +51,7 @@ export const UserDashboard = () => {
           </div>
 
           {/* Performance Metrics Card */}
-          <div className="mt-8">
-            <Card2
-              label="User Performance Metrics"
-              to="/performance"
-              className="w-full"
-            />
-          </div>
+          
         </div>
       </div>
 
