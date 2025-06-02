@@ -50,7 +50,7 @@ export const UserDashboard = () => {
             />
           </div>
 
-          {/* Performance Metrics Card */}
+        
           
         </div>
       </div>
