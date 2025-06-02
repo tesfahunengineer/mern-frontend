@@ -29,7 +29,7 @@ const Home = () => {
             transition={{ ease: "easeInOut", duration: 0.9, delay: 0.1 }}
             className="font-bold text-2xl md:text-3xl lg:text-4xl text-gray-900 dark:text-gray-100 uppercase"
           >
-            Wellcome, To arki digital software!!!
+            arki digital software!
           </motion.h1>
 
           <motion.p
@@ -38,8 +38,8 @@ const Home = () => {
             transition={{ ease: "easeInOut", duration: 0.9, delay: 0.2 }}
             className="font-serif font-medium mt-3 text-lg md:text-xl text-gray-700 dark:text-gray-300"
           >
-            Wellcome to yekassa contractor management system, You can download
-            the document and view our service, And you can contact with us.Feels
+            Welcome! this is yekassa general contractor official website with arki digital software embedded in it, You can download
+            the document below and view our service and products, And you can contact with us.Feels
             Free!!
           </motion.p>
 
